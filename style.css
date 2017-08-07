@@ -1,0 +1,32 @@
+body{
+background-color:rgb(69, 139, 116);
+
+
+}
+.pesto{
+margin: 20px;
+width: 400px;
+
+
+
+
+}
+h1{
+
+  text-align: center;
+  color:rgb(126, 192, 238);
+  font: italic small-caps bolder 30px/3 cursive;
+}
+
+.font{
+font: italic 2em "Open Sans", sans-serif;
+font-size: 20px;
+
+}
+.color{
+color:rgb(247, 202, 201);
+
+}
+.colortwo{
+color:rgb(220, 0 , 0);
+}
