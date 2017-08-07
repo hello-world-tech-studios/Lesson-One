@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Blueberry Pie</title>
+  </head>
+  <body>
+    <div class="pie">
+    <h1>Blueberry Pie</h1>
+    <p>Blueberrys are healthy but blueberry pie is not. But it tastes so good!</p>
+    <img class="blu" src="http://www.bakerssquare.com/i/pies/profile/blueberry_main1.jpg" width=500px>
+  </div>
+    <div class="in">
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li> 1 refrigerated pie crust</li>
+      <li>4 cups blueberries</li>
+      <li>½ cup sugar</li>
+      <li>2 ½ tablespoons cornstarch</li>
+      <li>1 tablespoon butter</li>
+      <li>½ teaspoon grated lemon peel</li>
+    </ul>
+    </div>
+    <div class="dir">
+      <h2 class="d">Directions</h2>
+    <ol>
+      <li>Roll out one sheet pie crust to flatten. Fit into a 9-inch pie dish.
+      </li>
+      <li>In a medium saucepan combine 1 cup of the blueberries,
+        sugar, cornstarch and 2 tablespoons water.
+        Bring to a boil; cook and stir until mixture is thickened
+        and clear. Stir in butter; cool for
+         5 minutes. Stir in the remaining 3 cups
+         blueberries and lemon peel.</li>
+         <li>Preheat oven to 400 degrees. Turn cooled filling into pie shell.
+            Lay the remaining pie crust on a sheet of wax paper. Roll out to flatten.
+            With a knife or pastry wheel cut pastry into 3/8-inch wide strips.
+             Arrange in a criss-cross pattern on top of blueberries, pressing
+             ends into the edges of the bottom crust and crimping to seal.
+            </li>
+            <li>Place pie on a baking sheet. Bake in the bottom third
+               of oven until crust is golden and
+               filling bubbles gently, about 30 minutes. Cool on rack.
+              </li>
+          </body>
+    </ol>
+  </body>
+              </ol>
+                </div>
+                <div class="las">
+  <img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAApmAAAAJDg3YjBkMzIwLTdmNGUtNDVhYi04NmRiLTBkM2U2M2I5ZjJkMw.jpg" width=300px>
+      <br>
+      <a href="http://allrecipes.com/recipe/12196/blueberry-pie/">Here is another recipe!</a>
+      <br>
+      <br>
+      <a href="http://www.onegreenplanet.org/plant-based-recipes/blueberry-pie-with-a-heart-healthy-crust-vegan/">This one's vegan!</a>
+      <br>
+      <br>
+      <a href="http://www.glutenfreebaking.com/classic-blueberry-pie-gluten-free/">This one's gluten free!</a>
+<br>
+<br>
+<h3>Nutritional-Facts</h3>
+<table>
+      <tr>
+        317 calories
+      </tr>
+
+      <tr>
+        48 g carbohydrate
+      </tr>
+
+      <tr>
+        15 g total fat
+      </tr>
+
+    <tr>
+      6 g saturated fat
+    </tr>
+
+    <tr>
+      2 g fiber
+    </tr>
+    </table>
+  </div>
+</body>
+</html>
